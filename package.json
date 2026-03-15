@@ -1,0 +1,22 @@
+{
+  "name": "tasti-outbound-engine",
+  "version": "1.0.0",
+  "description": "Tasti LinkedIn Outbound Sales Engine with AI-powered messaging",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0"
+  }
+}
